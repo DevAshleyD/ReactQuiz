@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactQuiz/static/css/main.ff03dfc2.chunk.css",
+    "main.js": "/ReactQuiz/static/js/main.1ab3eac1.chunk.js",
+    "main.js.map": "/ReactQuiz/static/js/main.1ab3eac1.chunk.js.map",
+    "runtime-main.js": "/ReactQuiz/static/js/runtime-main.deb85331.js",
+    "runtime-main.js.map": "/ReactQuiz/static/js/runtime-main.deb85331.js.map",
+    "static/js/2.aef3f19f.chunk.js": "/ReactQuiz/static/js/2.aef3f19f.chunk.js",
+    "static/js/2.aef3f19f.chunk.js.map": "/ReactQuiz/static/js/2.aef3f19f.chunk.js.map",
+    "index.html": "/ReactQuiz/index.html",
+    "precache-manifest.ed981fdefd38def634ce2aac0d4218e0.js": "/ReactQuiz/precache-manifest.ed981fdefd38def634ce2aac0d4218e0.js",
+    "service-worker.js": "/ReactQuiz/service-worker.js",
+    "static/css/main.ff03dfc2.chunk.css.map": "/ReactQuiz/static/css/main.ff03dfc2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deb85331.js",
+    "static/js/2.aef3f19f.chunk.js",
+    "static/css/main.ff03dfc2.chunk.css",
+    "static/js/main.1ab3eac1.chunk.js"
+  ]
+}
