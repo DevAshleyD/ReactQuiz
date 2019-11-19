@@ -2,7 +2,7 @@
   "name": "web-dev-quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kurtpetrek.github.io/web-dev-quiz",
+  "homepage": "https://DevAshleyD.github.io/ReactQuiz",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^15.6.1",
